@@ -1,39 +1,93 @@
-# Hi, I'm Krishna Vishwakarma 👋
 
-### Software Engineer | Backend Development | React Native
+<h1 align="center">Hi, I'm Krishna Vishwakarma 👋</h1>
 
-I'm a software engineer with **5+ years of experience** building production applications, backend APIs, and cross-platform mobile apps.
+<h3 align="center">Software Engineer | Backend Engineering & Mobile Development</h3>
 
-My primary focus is backend engineering with Node.js, TypeScript, and PostgreSQL. I also have professional experience building mobile applications with React Native.
+<p align="center">
+  <a href="https://github.com/kv77724-dot">
+    <img src="https://komarev.com/ghpvc/?username=kv77724-dot&style=flat-square&color=blue" alt="Profile views" />
+  </a>
+  <a href="https://leetcode.com/u/kv77724/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
-### 🛠️ Tech Stack
+---
 
-**Backend:** Node.js, TypeScript, NestJS, Express.js, AdonisJS
+## 👨‍💻 About Me
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+I'm a software engineer with **5+ years of professional experience** building backend services and mobile applications.
 
-**APIs & Messaging:** REST APIs, GraphQL, RabbitMQ, WebSockets
+- 🔧 Working with Node.js, TypeScript, databases, and REST APIs
+- 📱 Professional experience building cross-platform apps with React Native
+- 🗄️ Interested in database engineering, query optimization, and system design
+- 🧩 Practicing Data Structures & Algorithms on LeetCode
+- 🌱 Continuously improving my understanding of backend internals and scalable systems
 
-**Mobile:** React Native
+## 🛠️ Technologies & Tools
 
-**Cloud & Tools:** AWS, Git, GitLab, Bitbucket, CI/CD
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" />
+</p>
 
-### 📚 Currently Learning
+### Databases & Messaging
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+</p>
 
-- Node.js internals and asynchronous programming
-- SQL, indexing, query optimization, and connection pooling
-- System design and scalable backend architectures
-- Data structures and algorithms
-- Design patterns and clean code
+### Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
 
-### 🎯 My Focus
+### Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+</p>
 
-Building a strong foundation in backend engineering by understanding not just how to build APIs, but how to design, optimize, test, and operate reliable production systems.
+## 📚 Areas I'm Exploring
 
-### 🤝 Connect With Me
+- Node.js internals, event loop, and asynchronous execution
+- SQL, indexing, query plans, and connection pooling
+- Caching, message queues, and reliable background processing
+- High-level and low-level system design
+- Design patterns, clean architecture, and maintainable code
 
-- [LinkedIn](https://www.linkedin.com/in/krishnav-kv77724/)
-- [GitHub](https://github.com/kv77724-dot)
-- [Email](mailto:kv77724@gmail.com)
+## 💻 Problem Solving
 
-*Learning consistently. Building deliberately. Improving every day.* 🚀
+I practice Data Structures & Algorithms to improve my problem-solving skills and prepare for engineering challenges.
+
+<p>
+  <a href="https://leetcode.com/u/kv77724/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Visit my LeetCode profile" />
+  </a>
+</p>
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/krishnav-kv77724/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kv77724@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build with purpose. Understand the fundamentals. Keep improving.</i>
+</p>
