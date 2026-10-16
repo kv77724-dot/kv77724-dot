@@ -6,105 +6,93 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kv77724-dot&style=flat-square&color=blue" alt="Profile views" />
   <a href="https://leetcode.com/u/kv77724/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.linkedin.com/in/krishnav-kv77724/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Profile
 
-I'm a software engineer with **5+ years of professional experience** building backend services and mobile applications.
+Software engineer with **5+ years of professional experience** building production applications, backend services, APIs, and cross-platform mobile applications.
 
-I enjoy going deep into engineering fundamentals while exploring the broader software engineering landscape.
+My work spans backend development, database-driven applications, third-party integrations, and mobile engineering. I focus on understanding systems beyond their surface-level abstractions — how they execute, where bottlenecks emerge, how failures propagate, and how architectural decisions affect reliability and maintainability.
 
-- 🔧 Building backend services and APIs with Node.js and TypeScript
-- 📱 Experienced in developing production mobile applications with React Native
-- 🗄️ Exploring database internals, SQL optimization, indexing, and connection pooling
-- 🏗️ Learning how to design reliable, scalable, and maintainable systems
-- 🧩 Practicing Data Structures & Algorithms on LeetCode
+I approach engineering with both **technical depth and systems-level breadth**: understanding individual components thoroughly while considering how they interact across an application.
 
-## 🧠 Engineering Philosophy
+## Engineering Focus
 
-I prefer understanding the **why behind the how**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend & Runtime</h3>
+      Node.js, TypeScript, asynchronous execution, API design, error handling, and service architecture.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Data & Performance</h3>
+      PostgreSQL, SQL, indexing, query optimization, transactions, caching, and efficient data access.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>System Design</h3>
+      Service boundaries, message queues, scalability, reliability, and architectural trade-offs.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Application Engineering</h3>
+      React Native, API integration, production debugging, testing, and maintainable application design.
+    </td>
+  </tr>
+</table>
 
-<p>
-  <b>Depth:</b> Understand internals, algorithms, execution paths, performance bottlenecks, and trade-offs.
-</p>
+## Technology Stack
 
-<p>
-  <b>Breadth:</b> Explore how application code, APIs, databases, messaging systems, and infrastructure work together.
-</p>
+**Languages:** TypeScript, JavaScript, SQL
 
-<p>
-  <b>Goal:</b> Build software that is not only functional, but also reliable, maintainable, and efficient.
-</p>
+**Backend:** Node.js, NestJS, AdonisJS, Express.js
 
-## 🛠️ Technologies & Tools
+**Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis
 
-### Backend Development
+**APIs & Messaging:** REST, GraphQL, RabbitMQ, WebSockets, Socket.io
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-</p>
+**Mobile:** React Native
 
-### Databases & Messaging
+**Cloud & Delivery:** AWS (EC2, Lambda, S3), CI/CD
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-</p>
+**Testing & Monitoring:** Jest, Datadog
 
-### Mobile Development
+**Integrations:** Zoho CRM, Razorpay, Firebase Cloud Messaging, Webhooks
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
+## Engineering Principles
 
-### Cloud & Engineering Tools
+- **Understand the execution model.** Look beyond framework abstractions to understand runtime behavior, asynchronous execution, and resource usage.
+- **Treat data access as an engineering decision.** Consider query plans, indexes, transactions, connection management, and consistency—not just whether a query returns the expected result.
+- **Design for failure.** Account for timeouts, retries, duplicate operations, partial failures, and observability when building backend services.
+- **Evaluate trade-offs.** Choose architectures and abstractions based on requirements, constraints, complexity, and operational cost.
+- **Optimize with evidence.** Use measurements, query plans, profiling, and production signals to identify bottlenecks before optimizing.
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-</p>
+## Problem Solving
 
-## 📚 Areas I'm Exploring
-
-- **Node.js internals:** Event loop, asynchronous execution, streams, and worker threads
-- **Database engineering:** Query plans, indexing, transactions, and connection pooling
-- **System design:** Caching, message queues, scalability, and distributed systems
-- **Software design:** SOLID principles, design patterns, and architectural trade-offs
-- **Problem solving:** Data structures and algorithms
-
-## 💻 Problem Solving
+I practice Data Structures & Algorithms on LeetCode to strengthen algorithmic reasoning, complexity analysis, and implementation skills.
 
 <p>
   <a href="https://leetcode.com/u/kv77724/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode profile" />
   </a>
 </p>
 
-I use problem solving to strengthen my understanding of algorithms, data structures, and computational complexity.
-
-## 🤝 Connect With Me
+## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/krishnav-kv77724/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/kv77724-dot">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/krishnav-kv77724/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kv77724@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -114,5 +102,5 @@ I use problem solving to strengthen my understanding of algorithms, data structu
 ---
 
 <p align="center">
-  <i>Understand deeply. Explore broadly. Build thoughtfully.</i>
+  <i>Depth in fundamentals. Breadth across systems. Engineering with intent.</i>
 </p>
